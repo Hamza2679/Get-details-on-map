@@ -78,7 +78,7 @@ class MyHomePage extends StatelessWidget {
                 return Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Text(
-                    'Tap on the map to get the current time.',
+                    'Tap on the map to get the detail information.',
                     textAlign: TextAlign.center,
                   ),
                 );
